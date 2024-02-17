@@ -15,3 +15,5 @@ Machine Learning: SVM, ANN, DNN
 Python: Programming language used for implementing machine learning algorithms.
 TensorFlow / Keras: Libraries used for building and training neural networks.
 Scikit-learn: Library used for implementing SVM and other machine learning algorithms.
+
+FOR BETTER VIEW VISIT : https://colab.research.google.com/drive/1LUBgnYzo2VqM2F2wrbfsG-8G36tSskqk
